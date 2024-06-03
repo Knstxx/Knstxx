@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm <a href="https://t.me/KNST_XXX" target="_blank">Konstantin</a>!
-<h3 align="center">Junior Python backend-developer with petroleum engineering hard-skills from Russia</h3>
+<h3 align="center">Junior Python backend-developer with petroleum engineering hard-skills</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Knstxx&show_icons=true&theme=highcontrast" alt="Anurag's GitHub stats" />
