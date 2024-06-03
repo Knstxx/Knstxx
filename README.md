@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/KNST_XXX" target="_blank">Konstantin</a> 
+<h1 align="center">Hello, I'm <a href="https://t.me/KNST_XXX" target="_blank">Konstantin</a>!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior Python backend-developer with petroleum engineering hard-skills from Russia</h3>
 
