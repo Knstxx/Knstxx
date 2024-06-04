@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm <a href="https://t.me/KNST_XXX" target="_blank">Konstantin</a>!
+<h1 align="center">Hello, I'm <a href="https://t.me/KNST_XXX" target="_blank" class="custom-link">Konstantin</a>!
 <h3 align="center">Junior Python backend-developer with petroleum engineering hard-skills</h3>
 
 <div align="center">
@@ -10,3 +10,9 @@
     <img src="https://streak-stats.demolab.com/?user=Knstxx&theme=merko" alt="GitHub Streak" />
   </a>
 </div>
+
+<style>
+  .custom-link {
+    color: #00FF00; /* Измените этот цвет на нужный вам */
+  }
+</style>
