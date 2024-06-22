@@ -1,10 +1,10 @@
 <h1 align="center">Hello, I'm 
   <a href="https://t.me/KNST_XXX" target="_blank">Konstantin</a>!
 </h1>
-<a href="https://t.me/KNST_XXX"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=300&size=20&duration=3333&pause=1000&color=F7F7F7&background=FFFFFF00&repeat=false&random=false&width=1000&height=30&center=true&lines=Python-developer" alt="Typing SVG" /></a>
+<a href="https://t.me/KNST_XXX"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=300&size=20&duration=3333&pause=1000&color=F7F7F7&background=FFFFFF00&repeat=false&random=false&width=1000&height=30&center=true&lines=Python-developer+from+Moscow,+22+y.o." alt="Typing SVG" /></a>
 <hr>
-<h4 align="center"><i>A little bit about me</i></h4>
-...will be later...
+<h4 align="center"><i>About me</i></h4>
+XXX
 <hr>
 <h4 align="center"><i>LeetCode Stats</i></h4>
 <div align="center">
