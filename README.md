@@ -9,9 +9,12 @@
   <li><b>Formats</b>: full-time job, remote job, combined work, projects</li>
   <li>My <b>tech. stacks</b>:</li>
     <ul>
-      Python &#183 Django Framework &#183 DRF &#183 REST API &#183 JSON &#183 Pytest &#183 Unittest &#183 CSS &#183 SQL &#183 Git &#183 Linux &#183 Bash &#183 Ubuntu &#183 SSH &#183 Django &#183 ORM &#183 API &#183 Docker &#183 Algorithms and Data Structure &#183 Nginx &#183 DBMS &#183 FastAPI &#183 Web App Development &#183 Requests &#183 OOP &#183 Tasks Tracking Sytems &#183 Kanban &#183 Notion
+      Python &#183 Django Framework &#183 DRF &#183 REST API &#183 FastAPI &#183 Web App Dev &#183 ORM &#183 DBMS &#183 SQL &#183 MySQL &#183 PostgreSQL &#183 SQLite &#183 JSON &#183 Pytest &#183 Unittest &#183 CSS &#183 HTML &#183 Requests &#183 OOP &#183 Algorithms and Data Structure &#183 Git &#183 Linux &#183 Bash &#183 Ubuntu &#183 SSH &#183 Docker &#183 Nginx &#183 Tasks Tracking Sytems &#183 Kanban &#183 Notion
     </ul>
-  <li>other</li>
+  <li><b>B2</b> English lvl</li>
+  <li><b>Education:</b></li>
+    <ul>The Gubkin Russian State University of Oil and Gas (MSc)</ul>
+    <ul>Yandex Practicum (Refresher course)</ul>
 </ul>
 <hr>
 <h4 align="center"><i>LeetCode Stats</i></h4>
