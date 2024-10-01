@@ -17,12 +17,6 @@
     <ul>Yandex Practicum (Refresher course)</ul>
 </ul>
 <hr>
-<h4 align="center"><i>LeetCode Stats</i></h4>
-<div align="center">
-  
-  [![Leetcode Stats](https://leetcard.jacoblin.cool/knst_xxx?ext=heatmap)](https://leetcode.com/u/knst_xxx)
-</div>
-<hr>
 <h4 align="center"><i>GitHub Stats</i></h4>
 <div align="center">
   <a href="https://git.io/streak-stats">
